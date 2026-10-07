@@ -1,23 +1,26 @@
 ---
 permalink: /
-title: "Welcome to DL 2026"
+title: "Welcome to DL 2027"
 layout: splash
 header:
   overlay_image: /assets/images/big.jpg
   overlay_filter: "0.5" # darkens image for better text readability
   overlay_color: "#000" # black overlay (optional)
-excerpt: "July 17-19, 2026 · Lisbon, Portugal"
+excerpt: "July 08-11, 2027 · Amsterdam, Netherlands"
 
 ---
 
     
 
 <p>The <a href="https://dl.kr.org/" target="_blank">DL workshop</a> is the major annual event of the description logic research community. It is the forum in which those interested in description logics, both from academia and industry, meet to discuss ideas, share information and compare experiences.</p>
-<p>The 39th International Workshop on Description Logics will be held in Lisbon, Portugal, from July 17 to July 19, 2026. It will be co-located with several events as part of <a href="https://www.floc26.org/" target="_blank">FLoC 2026</a>, including <a href="https://kr.org/KR2026/">KR 2026</a> and <a href="https://nmr.krportal.org/2026/">NMR 2026</a>.</p>
-<p>Proceedings are available <a href="https://ceur-ws.org/Vol-4230/" target="_blank">online</a>.</p>
+<p>The 40th International Workshop on Description Logics will be held in Amsterdam, Netherlands, from July 08 to July 11, 2027. <!-- It will be co-located with several events as part of <a href="https://www.floc26.org/" target="_blank">FLoC 2026</a>, including <a href="https://kr.org/KR2026/">KR 2026</a> and <a href="https://nmr.krportal.org/2026/">NMR 2026</a>.</p>
+<p>Proceedings are available <a href="https://ceur-ws.org/Vol-4230/" target="_blank">online</a>.</p> -->
 
-## Invited Speakers 
-<p>We're honored to host these distinguished experts at our DL workshop. Each speaker will share their expertise in a keynote talk followed by a discussion session. </p>
+<!-- ## Invited Speakers 
+t.b.a. -->
+
+
+<!-- <p>We're honored to host these distinguished experts at our DL workshop. Each speaker will share their expertise in a keynote talk followed by a discussion session. </p>
 
 
 <head>
@@ -156,7 +159,11 @@ excerpt: "July 17-19, 2026 · Lisbon, Portugal"
 </head>
 <body>   
     <section class="speakers-container">
-        <!-- Speaker 1 -->
+
+-->
+
+<!-- do not display this: Speaker 1 -->
+<!--
         <div class="speaker-card" onclick="window.open('https://tommiemeyer.org.za/', '_blank')">
             <img src="/assets/images/TM.jpg" alt="Tommie Meyer Picture" class="speaker-img">
             <div class="speaker-info">
@@ -170,9 +177,11 @@ excerpt: "July 17-19, 2026 · Lisbon, Portugal"
                 </div> 
             </div>
         </div>
+
+-->
         
-        <!-- Speaker 2 -->
-        <div class="speaker-card" onclick="window.open('https://lat.inf.tu-dresden.de/~stefborg/', '_blank')">
+ <!-- Speaker 2 -->
+<!--        <div class="speaker-card" onclick="window.open('https://lat.inf.tu-dresden.de/~stefborg/', '_blank')">
             <img src="/assets/images/SB.jpg" alt="Stefan Borgwardt" class="speaker-img">
             <div class="speaker-info">
                 <h3 class="speaker-name">Stefan Borgwardt</h3>
@@ -186,8 +195,8 @@ excerpt: "July 17-19, 2026 · Lisbon, Portugal"
             </div>
         </div> 
         
-        <!-- Speaker 3 -->
-       <div class="speaker-card" onclick="window.open('https://logic-in.cs.tu-dortmund.de/personen/profs/jean-christoph-jung/', '_blank')">
+        <!-- do not display this: Speaker 3 -->
+<!--       <div class="speaker-card" onclick="window.open('https://logic-in.cs.tu-dortmund.de/personen/profs/jean-christoph-jung/', '_blank')">
             <img src="/assets/images/jean2.png" alt="Jean Christoph Jung" class="speaker-img">
             <div class="speaker-info">
                 <h3 class="speaker-name">Jean Christoph Jung</h3>
@@ -203,9 +212,13 @@ excerpt: "July 17-19, 2026 · Lisbon, Portugal"
     </section>
 </body>
 
+-->
+
+
 <!-- Sponsors Section -->
-## Our Sponsors
-<p>We extend our sincere gratitude to our sponsors for their generous support. Their contributions help advance the field of description logics through collaboration and innovation. </p>
+<!-- ## Our Sponsors
+t.b.a.-->
+<!--  <p>We extend our sincere gratitude to our sponsors for their generous support. Their contributions help advance the field of description logics through collaboration and innovation. </p>
 
 <body>
     <div class="sponsors-grid">    
@@ -220,9 +233,10 @@ excerpt: "July 17-19, 2026 · Lisbon, Portugal"
         <div style="background-color: #f2986c;" class="sponsor-logo" onclick="window.open('https://aij.ijcai.org', '_blank')">
             <img style="max-height:90pt" src="/assets/images/ARTINT_Logo2_c_highresolution.png" alt="AIJ" class="tooltip">
         </div>
-        
-        <!--<div style="background-color: rgb(40, 61, 121);" class="sponsor-logo" onclick="window.open('https://www.floc26.org/', '_blank')">
+
+        <div style="background-color: rgb(40, 61, 121);" class="sponsor-logo" onclick="window.open('https://www.floc26.org/', '_blank')">
             <img style="max-height:100pt" src="/assets/images/floc_blue.png" alt="FLoC 2026" class="tooltip">
-        </div>-->
+        </div>
     </div>
 </body>
+-->
