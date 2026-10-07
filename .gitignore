@@ -1,0 +1,14 @@
+# Jekyll local build and cache outputs
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+
+# Ruby environment dependencies
+.bundle/
+vendor/
+
+# System & Editor files
+.DS_Store
+Thumbs.db
+.vscode/
