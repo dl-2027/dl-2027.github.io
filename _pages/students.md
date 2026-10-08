@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/images/big.jpg
   overlay_filter: "0.5" # darkens image for better text readability
   overlay_color: "#000" # black overlay (optional)
-excerpt: "DL 2026 · July 17-19, 2026 · Lisbon, Portugal"
+excerpt: "DL 2027 · July 08-11, 2027 · Amsterdam, Netherlands"
 ---
 
 A  number of student grants for participating at DL 2026 is available for students with limited funding.
