@@ -13,8 +13,8 @@ main:
     url: /dates/
   - title: "Logistics"
     url: /venue/
-  - title: "Keyword Taxonomy"
-    url: /taxonomy/
+  #- title: "Keyword Taxonomy"
+  #  url: /taxonomy/
   #- title: "Registration"
   #  url: /registration/
   #- title: "Students"
