@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Description Logics Workshop 2027 · Amsterdam, Netherlands
 
 url: "https://dl-2027.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/dl-2027" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
