@@ -16,9 +16,7 @@ excerpt: "DL 2027 · July 08-11 · Amsterdam, Netherlands"
 | May 7    | Notification of acceptance |
 | May 10   | Student grant application deadline |
 | May 15 | Student grant notification |
-<!--| June 1    | End of the [DL via FLoC'26](https://www.floc26.org/registration) early registration | -->
 | June 9   | Camera-ready version due |
-<!--| July 13    | End of the [DL via FLoC'26](https://www.floc26.org/registration) late registration | -->
 | July 8-11 | DL workshop | 
 
 | 
