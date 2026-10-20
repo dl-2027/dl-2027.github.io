@@ -10,7 +10,7 @@ excerpt: "DL 2027 · July 08-11, 2027 · Amsterdam, Netherlands"
 ---
 
 <h2>Submissions</h2>
-Traditionally, the DL review process follows a single-blind model, where reviewers can see the authors’ names. Therefore, for standard submissions, please include author names in your submitted files. However, if you have a specific reason to remain anonymous, you may opt for the anonymous (i.e., double-blind) submission option instead. The new submission platform---HotCRP---supports both options, allowing authors to select their preferred review model during the submission process (see <a href="/assets/images/hotcrp.png" target="_blank">screenshot</a> for reference).
+Traditionally, the DL review process follows a single-blind model, where reviewers can see the authors’ names. Therefore, for standard submissions, please include author names in your submitted files. However, if you have a specific reason to remain anonymous, you may opt for the anonymous (i.e., double-blind) submission option instead. 
 
 
 <h4>Submission Categories</h4>
