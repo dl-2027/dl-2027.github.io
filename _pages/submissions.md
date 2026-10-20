@@ -18,7 +18,8 @@ Submissions within the scope of the workshop are invited in one of the following
 - Regular Papers: Up to 11 pages (excluding references)
 - Extended Abstracts: 2 to 4 pages (excluding references).
 
-<!--All submissions must follow the CEURART formatting style using <a href="/assets/CEURART-DL26.zip" target="_blank">our DL-specific template</a> and submitted through <a href="https://submissions.floc26.org/dl/">HotCRP for DL 2027</a> in PDF. In HotCRP, authors (if they are not in the DL PC) first <emph>register</emph>---the PC members already have accounts---then submit their work, possibly multiple times; they choose for each submitted version whether that version is ready for review. -->
+All submissions must follow the CEURART formatting style using <a href="/assets/CEURART-DL27.zip" target="_blank">our DL-specific template</a>.
+<!-- and submitted through <a href="https://submissions.floc26.org/dl/">easychair for DL 2027</a> in PDF. -->
 
 <b>Regular Papers</b>
 - Must provide substantial contributions that can be cited in other publications.
@@ -35,7 +36,7 @@ Submissions within the scope of the workshop are invited in one of the following
 
 Accepted submissions (both regular papers and extended abstracts) will be considered for oral or poster presentations at the workshop. The selection will be based solely on content quality, not on the type of submission.
 
-<!--<b>Workshop Proceedings</b>
+<b>Workshop Proceedings</b>
 
-Accepted papers will be published as informal proceedings. The proceedings shall be submitted to the <a href="http://ceur-ws.org/" target="_blank">CEUR Workshop Proceedings series</a> for online publication. The copyright of papers remain with the authors. Full papers will be indexed by <a href="dblp.org" taget="_blank">DBLP</a>; but extended abstracts published on CEUR proceedings will not. -->
+Accepted papers will be published as informal proceedings. The proceedings shall be submitted to the <a href="http://ceur-ws.org/" target="_blank">CEUR Workshop Proceedings series</a> for online publication. The copyright of papers remain with the authors. Full papers will be indexed by <a href="dblp.org" taget="_blank">DBLP</a>; but extended abstracts published on CEUR proceedings may not.
 
