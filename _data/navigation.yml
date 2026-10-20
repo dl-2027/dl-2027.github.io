@@ -3,8 +3,8 @@ main:
   #  url: /accepted/
  # - title: "Program"
   #  url: /program/
-  #- title: "Team"
-   # url: /orga/
+  - title: "Team"
+    url: /orga/
   - title: "Call"
     url: /call/
   - title: "Submissions"
