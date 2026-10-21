@@ -11,14 +11,14 @@ excerpt: "DL 2027 · July 08-11, 2027 · Amsterdam, Netherlands"
 
 The DL workshop is the major annual event of the description logic research community. It is the forum in which those interested in description logics, both from academia and industry, meet to discuss ideas, share information and compare experiences. We invite contributions on all aspects of description logics, including, but not limited to:
 
-<b>Foundations of description logics</b>: decidability and complexity of reasoning, expressive power, novel inference problems, inconsistency management, reasoning techniques, modularisation, ontology extraction, abductive and inductive reasoning
+<b>Foundations of description logics</b>: decidability and complexity of reasoning, expressive power, novel inference problems, inconsistency management, reasoning techniques, modularisation, ontology extraction, abductive and inductive reasoning, learnability
 
 <b>Extensions of description logics</b>: closed-world and non-monotonic reasoning, epistemic reasoning, fuzzy reasoning, temporal and spatial reasoning, procedural knowledge, query answering, reasoning over dynamic information
 
-<b>Integration of description logics with other formalisms</b>: object-oriented representation languages, database query languages, constraint-based programming, logic programming, rule-based systems
+<b>Integration of description logics with other formalisms</b>: object-oriented representation languages, database query languages, constraint-based programming, logic programming, rule-based systems, knowledge graphs, hybrid reasoning approaches
 
-<b>Applications and use areas of description logics</b>: ontology engineering, ontology languages, databases, ontology-based data access, semi-structured data, graph-structured data, linked data, document management, natural language, learning, explanations, planning, Semantic Web, cloud computing, conceptual modeling, web services, business processes, practical experiences, case studies, feasibility studies
+<b>Applications and use areas of description logics</b>: ontology engineering, ontology languages, databases, ontology-based data access, semi-structured data, graph-structured data, linked data, document management, natural language, hybrid approaches combining logic and learning, explanations, planning, Semantic Web, cloud computing, conceptual modeling, web services, business processes, practical experiences, case studies, feasibility studies
 
-<b>Systems and tools of all kinds around description logics</b>: reasoners, ontology editors, ontology alignment, ontology extraction, other support for ontology development, database schema design, query rewriting/answering/optimization, data integration, implementation and optimization techniques, benchmarking, evaluation, modeling.
+<b>Systems and tools of all kinds around description logics</b>: reasoners, ontology editors, ontology alignment, ontology extraction, ontology learning and mining, other support for ontology development, database schema design, query rewriting/answering/optimization, data integration, implementation and optimization techniques, benchmarking, evaluation, modeling.
 
 
