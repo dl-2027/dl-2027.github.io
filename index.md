@@ -13,7 +13,8 @@ excerpt: "July 08-11, 2027 · Amsterdam, Netherlands"
     
 
 <p>The <a href="https://dl.kr.org/" target="_blank">DL workshop</a> is the major annual event of the description logic community. It is the forum in which those interested in description logics, both from academia and industry, meet to discuss ideas, share information and compare experiences.</p>
-<p>The 40th International Workshop on Description Logics will be held in Amsterdam, Netherlands, from July 08 to July 11, 2027. <p>
+<p>As 2027 marks the 40th edition of the event, we look forward to a strong turnout, with established researchers, students, and newcomers to the area coming together to reflect on the advances and successes of DL research and the challenges for the future.</p>
+<p>The 40th International Workshop on Description Logics will be held in Amsterdam, Netherlands, from July 08 to July 11, 2027. </p>
 
 More info will be posted soon on this website and via the <a href="https://mailman.zih.tu-dresden.de/groups/listinfo/dl">DL mailing list</a>.
 <!-- It will be co-located with several events as part of <a href="https://www.floc26.org/" target="_blank">FLoC 2026</a>, including <a href="https://kr.org/KR2026/">KR 2026</a> and <a href="https://nmr.krportal.org/2026/">NMR 2026</a>.</p>
