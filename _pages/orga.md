@@ -84,7 +84,7 @@ excerpt: "DL 2027 · July 08-11, 2027 · Amsterdam, Netherlands"
 <a href="https://pkoopmann.github.io">Patrick Koopmann</a>, Vrije Universiteit Amsterdam, The Netherlands
 
 <h4>Program Chairs</h4>
-<a href="https://www.di.ens.fr/camille.bourgaux/index.html">Camille Bourgaux</a>,  École Normale Supérieure, France\\
+<a href="https://www.di.ens.fr/camille.bourgaux/index.html">Camille Bourgaux</a>, CNRS & École Normale Supérieure, France\\
 <a href="https://ijv.ovh/">Ivan Varzinczak</a>, Université Sorbonne Paris Nord, France
 
 <!--
