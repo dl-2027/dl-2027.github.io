@@ -18,8 +18,7 @@ Submissions within the scope of the workshop are invited in one of the following
 - Regular Papers: Up to 11 pages (excluding references)
 - Extended Abstracts: 2 to 4 pages (excluding references).
 
-All submissions must follow the CEURART formatting style using <a href="/assets/CEURART-DL27.zip" target="_blank">our DL-specific template</a>.
-<!-- and submitted through <a href="https://submissions.floc26.org/dl/">easychair for DL 2027</a> in PDF. -->
+All submissions must follow the CEURART formatting style using <a href="/assets/CEURART-DL27.zip" target="_blank">our DL-specific template</a> be and submitted through <a href="https://easychair.org/conferences/?conf=dl2027"  target="_blank">easychair for DL 2027</a> in PDF. 
 
 <b>Regular Papers</b>
 - Must provide substantial contributions that can be cited in other publications.
