@@ -37,5 +37,5 @@ Accepted submissions (both regular papers and extended abstracts) will be consid
 
 <b>Workshop Proceedings</b>
 
-Accepted papers will be published as informal proceedings. The proceedings shall be submitted to the <a href="http://ceur-ws.org/" target="_blank">CEUR Workshop Proceedings series</a> for online publication. The copyright of papers remain with the authors. Full papers will be indexed by <a href="dblp.org" taget="_blank">DBLP</a>; but extended abstracts published on CEUR proceedings may not.
+Accepted papers will be published as informal proceedings. The proceedings shall be submitted to the <a href="http://ceur-ws.org/" target="_blank">CEUR Workshop Proceedings series</a> for online publication. The copyright of papers remains with the authors. Full papers will be indexed by <a href="dblp.org" taget="_blank">DBLP</a>; but extended abstracts published on CEUR proceedings may not.
 
