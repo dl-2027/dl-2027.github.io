@@ -9,7 +9,7 @@ header:
 excerpt: "DL 2027 · July 08-11 · Amsterdam, Netherlands"
 ---
 
-
+<b>Timeline</b>
 
 | March 26 | Paper registration and abstract      |
 | April 2  | Paper submission  |
