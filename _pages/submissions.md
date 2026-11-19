@@ -32,6 +32,7 @@ All submissions must follow the CEURART formatting style using <a href="/assets/
 - Unlike the main submission, the appendix does not need to follow the CEURART format.
 
 <b>Declaration on Generative AI</b>
+
 Any use of LLMs or other generative AI tools must be disclosed at the time of submission in the declaration of generative AI statement placed at the end of the paper (cf. paper template). The disclosure should identify the tool used and indicate which parts of the submission were generated or materially influenced. If such tools play a material role in the research methodology, analyses, experiments, or implementation, this role should also be appropriately described in the body of the paper. 
     
 <b>Presentation Selection</b>
