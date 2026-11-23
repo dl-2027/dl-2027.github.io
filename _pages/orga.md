@@ -83,6 +83,11 @@ excerpt: "DL 2027 · July 08-11, 2027 · Amsterdam, Netherlands"
 <h4>General Chair</h4>
 <a href="https://pkoopmann.github.io">Patrick Koopmann</a>, Vrije Universiteit Amsterdam, The Netherlands
 
+<h4>Local Chairs</h4>
+<a href="https://jieyingchenchen.github.io">Jieying Chen</a>, Vrije Universiteit Amsterdam, The Netherlands  \\
+<a href="https://staff.science.uva.nl/r.dehaan/">Ronald de Haan</a>, Universiteit van Amsterdam, The Netherlands 
+
+
 <h4>Program Chairs</h4>
 <a href="https://www.di.ens.fr/camille.bourgaux/index.html">Camille Bourgaux</a>, CNRS & École Normale Supérieure, France\\
 <a href="https://ijv.ovh/">Ivan Varzinczak</a>, Université Sorbonne Paris Nord, France
@@ -92,10 +97,6 @@ excerpt: "DL 2027 · July 08-11, 2027 · Amsterdam, Netherlands"
 <a href="https://lat.inf.tu-dresden.de/~alisa/">Alisa Kovtunova</a>, TU Dresden, Germany\\
 <a href="https://www.frankfurt-university.de/de/hochschule/fachbereich-2-informatik-und-ingenieurwissenschaften/kontakt/professorinnen-und-professoren-im-fachbereich-2/baris-sertkaya/">Barış Sertkaya</a>, Frankfurt University of Applied Sciences, Germany -->
 
-
-<h4>Local Chairs</h4>
-<a href="https://jieyingchenchen.github.io">Jieying Chen</a>, Vrije Universiteit Amsterdam, The Netherlands  \\
-<a href="https://staff.science.uva.nl/r.dehaan/">Ronald de Haan</a>, Universiteit van Amsterdam, The Netherlands 
 
 <h4>Website Manager</h4>
 <a href="https://research.vu.nl/en/persons/tommaso-zendron/">Tommaso Zendron</a>, Vrije Universiteit Amsterdam, The Netherlands
