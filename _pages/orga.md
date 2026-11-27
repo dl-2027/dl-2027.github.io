@@ -81,7 +81,7 @@ excerpt: "DL 2027 · July 08-11, 2027 · Amsterdam, Netherlands"
 
 
 <h4>General and Local Chairs</h4>
-<a href="https://pkoopmann.github.io">Patrick Koopmann</a>, Vrije Universiteit Amsterdam, The Netherlands
+<a href="https://pkoopmann.github.io">Patrick Koopmann</a>, Vrije Universiteit Amsterdam, The Netherlands \\
 <a href="https://jieyingchenchen.github.io">Jieying Chen</a>, Vrije Universiteit Amsterdam, The Netherlands  \\
 <a href="https://staff.science.uva.nl/r.dehaan/">Ronald de Haan</a>, Universiteit van Amsterdam, The Netherlands 
 
